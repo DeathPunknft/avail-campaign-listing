@@ -1,0 +1,8 @@
+{
+  "name": "huhu",
+  "logo": "https://i.imgur.com/0KUHPnZ.png>",
+  "rpc_url": "http://43.153.209.211:9944",
+  "explorer_url": "http://43.153.209.211:4000",
+  "metrics_endpoint": "http://43.153.209.211:9615/metrics",
+  "id": "ede051a6-4519-4abe-9f8b-4c88291acdd8"
+}
